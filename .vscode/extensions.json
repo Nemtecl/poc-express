@@ -1,0 +1,14 @@
+{
+    "recommendations": [
+        "steoates.autoimport",
+        "formulahendry.auto-rename-tag",
+        "naumovs.color-highlight",
+        "helgardrichard.helium-icon-theme",
+        "christian-kohler.path-intellisense",
+        "ms-vscode.vscode-typescript-tslint-plugin",
+        "mhutchie.git-graph",
+        "esbenp.prettier-vscode",
+        "dbaeumer.vscode-eslint",
+        "msjsdiag.debugger-for-chrome"
+    ]
+}
